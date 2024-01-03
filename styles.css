@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #ffa8B6;
+    
+}
+ 
+h1 {
+    color: #ff90ff;
+    text-shadow:
+    3px 3px  #000,
+    -3px 3px  #000,
+    -3px -3px 0 #000,
+    3px -3px 0 #000;
+}
+
+.sketch-area {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid #0049B7;
+    margin: 100px auto;
+    background-color: #ff90ff;
+} 
+
+.box {
+        border: 1px solid #0049B7;
+    }
+
+.btn1 {
+    color:#0049B7;
+    border: 2px solid #0049B7;
+    border-radius: 25px;
+    width: 80px;
+    height: 25px;
+    background-color: #ff90ff;
+
+
+}
+
+
